@@ -1,0 +1,45 @@
+@charset "UTF-8";
+body {
+    width: 97%;
+    background-color : #fffae6;
+    color: black;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin: 15px auto;
+}
+
+/* Κύρια χαρακτηριστικά για nav */
+ul.p1 {
+    list-style-type: none;
+    overflow: hidden;
+    background-image : linear-gradient(to bottom,#ffcc66 0%, #ffffcc 100%);
+    width: auto;
+    position: static;
+    line-height: 50px;
+    margin-top : 0px
+}
+
+li 	{
+    float: left;
+    }
+
+li a {
+    display: block;
+    color: green;
+    width : auto;
+    border-right: 1px solid #bbb;
+    padding: 0px 15px 0px 15px;
+    line-height: 50px;
+    font-weight: normal;
+    font-family: 'Actor';
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 2px 1px 1px black;
+    letter-spacing: 2px;
+}
+
+li a:hover {
+  background-color: #284d00;
+  color: #ffcc66
+}
