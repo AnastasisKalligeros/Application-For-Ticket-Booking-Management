@@ -19,15 +19,19 @@ used in the program was done through the MySQL Workbench.  </b></br> </br>
 • First the user will need to download Eclipse which is mainly an integrated software development environment (IDE) used for application development. </br> </br>
 • Then through the directory the project is found in the location where it is installed. </br> </br> 
 • It is also necessary for the functionality of the project to install a mysql-connector that provides a driver for connecting applications to MySQL databases. This driver allows applications to communicate and exchange data with MySQL to perform SQL commands such as SELECT, INSERT, UPDATE, and DELETE. Which you add to the libraries of the Java Build Path of the project. </br> </br> As seen in the screenshot below: </br> </br>
-![image](https://github.com/user-attachments/assets/ae887fda-4ec4-4d3d-a2cd-691642200d08) </br> </br>
+![1](https://github.com/user-attachments/assets/1645768f-acb3-4ab2-9671-32dbf5313b8c)
+ </br> </br>
 • In addition, it is considered necessary to install tomcat which is an open source application server used to run Java applications in a web environment.</br> </br> 
 
 As seen in the screenshot below:  </br> </br>
-![image](https://github.com/user-attachments/assets/8fde544d-ac4a-4075-a260-127479388fc6) </br> </br>
+![2](https://github.com/user-attachments/assets/0a1ae1d9-aa82-488b-a5a4-bd963338a7a2)
+ </br> </br>
 
-![image](https://github.com/user-attachments/assets/7e548d47-bddc-447b-943d-e5302d49657e) </br> </br>
+![3](https://github.com/user-attachments/assets/66a2be8b-d600-4b6c-b7ac-cbdce530ec66)
+ </br> </br>
 
-![image](https://github.com/user-attachments/assets/24d46799-c8f4-488b-86ad-d835942bd065) </br> </br>
+![4](https://github.com/user-attachments/assets/1a4a8019-86bb-4ae0-bd12-6c7b96cffcd5)
+ </br> </br>
 
 • Then you will be able to run the application! </br> </br>
 
@@ -43,63 +47,78 @@ As seen in the screenshot below:  </br> </br>
 ###
 • <b>Welcome Page </br> </br>
  
-![Εικόνα1](https://github.com/user-attachments/assets/d416473d-60c9-43c4-a166-f5855f3be9b2)  </br> </br>
+![5](https://github.com/user-attachments/assets/4b3f19fe-9378-4852-adb0-99af4eea30db)
+  </br> </br>
 
 • <b>Login Page </br> </br>
 
-![Εικόνα2](https://github.com/user-attachments/assets/f95784a3-5713-4b82-8400-08a63185c26f) </br> </br>
+![6](https://github.com/user-attachments/assets/42a29350-ba45-42b1-92af-38fe182bc181)
+ </br> </br>
 
 • <b>Admin's Home Page </br> </br>
 
-![image](https://github.com/user-attachments/assets/a4e6b81c-c698-4c5a-93dd-a542f1b4cf56) </br> </br>
+![7](https://github.com/user-attachments/assets/74d57d8e-9bbf-4954-85e3-8ce66f7d1615)
+ </br> </br>
 
 • <b>Application Admin's Addendum </br> </br>
 
-![image](https://github.com/user-attachments/assets/a58a7276-0f08-4051-a518-a30aa0a9a56d) </br> </br> 
+![8](https://github.com/user-attachments/assets/fc1caaa8-1ea7-4e78-8c4d-8c277c31c825)
+ </br> </br> 
 
 • <b>Content Admin's Addendum </br> </br>
 
-![image](https://github.com/user-attachments/assets/ea0d6ce6-2e71-4a53-a5ee-76c20b43e38b) </br> </br> 
+![9](https://github.com/user-attachments/assets/c73a5fbe-9209-4b67-bb53-839993fbe565)
+ </br> </br> 
 
 • <b>Deletion of Content Admin </br> </br>
 
-![image](https://github.com/user-attachments/assets/456077ca-db97-4a93-824d-93cf50676492) </br> </br> 
+![10](https://github.com/user-attachments/assets/0fb0bfee-8901-4bff-963c-1e855f0d2064)
+ </br> </br> 
 
 • <b>User's Update </br> </br>
 
-![image](https://github.com/user-attachments/assets/fadd34e8-be61-407d-8a51-5098a858a851) </br> </br> 
+![11](https://github.com/user-attachments/assets/14dedada-0dff-44c1-a364-217ea5012420)
+ </br> </br> 
 
 • <b>User's Search </br> </br>
 
-![image](https://github.com/user-attachments/assets/5453d385-d522-4e13-9c8e-64cba1342d14) </br> </br>
+![12](https://github.com/user-attachments/assets/c920857b-65cf-456d-8b19-c244575fc91d)
+ </br> </br>
 
 • <b>Content Admin's Home Page </br> </br>
 
-![image](https://github.com/user-attachments/assets/b7e57526-b60e-487b-b653-fa3e48641652) </br> </br>
+![13](https://github.com/user-attachments/assets/14255303-0b52-4b7c-b40f-2197d95b5fb3)
+ </br> </br>
 
 • <b>Film Addendum </br> </br>
 
-![image](https://github.com/user-attachments/assets/d4ec18b9-321d-4760-a528-92843c869a55) </br> </br>
+![14](https://github.com/user-attachments/assets/2a71e798-fba2-406c-b636-33ee45ae26a5)
+ </br> </br>
 
 • <b>Film Deletion </br> </br>
 
-![image](https://github.com/user-attachments/assets/b2934b47-a65a-49d7-b21a-88842636df82) </br> </br>
+![15](https://github.com/user-attachments/assets/59bb6f6d-463d-4df4-b077-c7d2811f9639)
+ </br> </br>
 
 • <b>Customer's Home Page </br> </br>
 
-![image](https://github.com/user-attachments/assets/bbca0217-ff15-46da-a006-ca59a4872560) </br> </br>
+![16](https://github.com/user-attachments/assets/ce2aa032-a966-41d8-b5c7-495d64b19865)
+ </br> </br>
 
 • <b>Cinema Program </br> </br>
 
-![image](https://github.com/user-attachments/assets/0b2e8b0a-157d-419c-ad8f-7d6366c16bb7) </br> </br>
+![17](https://github.com/user-attachments/assets/4a983fcd-02fa-4e5b-81e8-40bec5f7fc1f)
+ </br> </br>
 
 • <b>Booking Tickets </br> </br>
 
-![image](https://github.com/user-attachments/assets/7ef61310-00c1-451d-a8fb-df8fcf0b8a99) </br> </br>
+![18](https://github.com/user-attachments/assets/8a0ef591-18ce-4d8f-8f67-b76e302edb1f)
+ </br> </br>
 
 • <b>Booking History </br> </br>
 
-![image](https://github.com/user-attachments/assets/fb26c76a-518b-4c56-ad06-1ac2163d3627)
+![19](https://github.com/user-attachments/assets/7d7decff-66f4-4157-b0b4-dd48519a8efb)
+
 
 
 
